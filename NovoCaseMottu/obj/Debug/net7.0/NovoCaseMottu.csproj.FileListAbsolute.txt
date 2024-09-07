@@ -1,0 +1,15 @@
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/bin/Debug/net7.0/NovoCaseMottu
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/bin/Debug/net7.0/NovoCaseMottu.deps.json
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/bin/Debug/net7.0/NovoCaseMottu.runtimeconfig.json
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/bin/Debug/net7.0/NovoCaseMottu.dll
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/bin/Debug/net7.0/NovoCaseMottu.pdb
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/NovoCaseMottu.csproj.AssemblyReference.cache
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/NovoCaseMottu.GeneratedMSBuildEditorConfig.editorconfig
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/NovoCaseMottu.AssemblyInfoInputs.cache
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/NovoCaseMottu.AssemblyInfo.cs
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/NovoCaseMottu.csproj.CoreCompileInputs.cache
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/NovoCaseMottu.dll
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/refint/NovoCaseMottu.dll
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/NovoCaseMottu.pdb
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/NovoCaseMottu.genruntimeconfig.cache
+/home/jotave/Área de Trabalho/Mottu/NovoCase/NovoCaseMottu/obj/Debug/net7.0/ref/NovoCaseMottu.dll
